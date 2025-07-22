@@ -11,7 +11,7 @@ We will provide a dataset for the course, which will be used throughout the sess
 The course will run on three sessions, each lasting 2 hours in the following schedule:
 - **Session 1**: Introduction to Database Modeling (Date: 29 July 2025 from 9:00 am to 11:00 am)
 - **Session 2**: Implementation of Design (Date: 05 August 2025 from 9:00 am to 11:00 am)
-- **Session 3**: Data Insertion and etrieval (Date: 12 August 2025 from 9:00 am to 11:00 am)
+- **Session 3**: Data Insertion and Retrieval (Date: 12 August 2025 from 9:00 am to 11:00 am)
 
 Participants are expected to attend all three sessions to gain the full benefit of the course. Each session will include a mix of lectures, discussions, and hands-on exercises to reinforce learning. Participants will work in small groups to apply the concepts learned in each session to practical examples.
 
