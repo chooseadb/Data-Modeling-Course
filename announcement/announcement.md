@@ -1,6 +1,6 @@
 Do you want to learn how to model your data for a database? Are you interested in understanding how to design a database schema that is efficient and effective? If so, this course is for you!
 
-In this course, you will learn the fundamentals of structured database modeling, including how to identify entities, define relationships, and create a normalized schema. You will also explore best practices for designing databases that are scalable and maintainable.
+In this course, you will learn the fundamentals of relational database modeling, including how to identify entities, define relationships, and create a normalized schema. You will also explore best practices for designing databases that are scalable and maintainable.
 
 By the end of this course, you will have a solid understanding of how to model your data for a structured database and be able to apply these concepts to real-world scenarios. Whether you are a beginner or an experienced developer, this course will provide you with the knowledge and skills you need to design effective database schemas.
 
