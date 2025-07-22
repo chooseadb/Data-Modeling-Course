@@ -6,7 +6,7 @@ By the end of this course, you will have a solid understanding of how to model y
 
 This course is designed for anyone who wants to learn how to model data for a database, especially all the research technology professionals. No prior experience with database design is required, but a basic understanding of programming concepts will be helpful.
 
-We will provide a dataset for the course, which will be used throughout the sessions. Participants will learn how to analyze the dataset, identify key entities, and design a database schema that meets the requirements of the data. You are welcome to bring your own dataset if you prefer, but it is not required. If you choose to bring your own dataset, please ensure it is in a structured format (e.g., CSV, JSON) that can be easily imported into a database system and please send us a copy of your dataset at least one week before the course starts so we can prepare accordingly.
+We will provide a case study and dataset for the course, which will be used throughout the sessions. Participants will learn how to analyze the dataset, identify key entities, and design a database schema that meets the requirements of the data. You are welcome to bring your own dataset if you prefer, but it is not required. If you choose to bring your own dataset, please ensure it is in flat structured format (i.e., CSV) that can be easily imported into a database system and please send us a copy of your dataset at least one week before the course starts so we can prepare accordingly.
 
 The course will run on three sessions, each lasting 2 hours in the following schedule:
 - **Session 1**: Introduction to Database Modeling (Date: 29 July 2025 from 9:00 am to 11:00 am)
